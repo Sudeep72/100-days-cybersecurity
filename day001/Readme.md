@@ -6,7 +6,7 @@
 
 ## 🧠 The Concept
 
-Before tools, before hacking, before anything — every security professional thinks through one lens:
+Before tools, before hacking, before anything - every security professional thinks through one lens:
 
 **The CIA Triad.**
 
@@ -37,7 +37,7 @@ Information is accessible only to those authorized to access it.
 Information is accurate and hasn't been modified by unauthorized parties.
 
 **How it's protected:**
-- Cryptographic hashing (SHA-256 — even 1 changed bit = completely different hash)
+- Cryptographic hashing (SHA-256 - even 1 changed bit = completely different hash)
 - Digital signatures
 - File Integrity Monitoring (FIM)
 
@@ -59,8 +59,8 @@ Systems and data are accessible to authorized users when they need them.
 - Tested backup and disaster recovery plans
 
 **How it's attacked:**
-- Distributed Denial of Service (DDoS) — flood the server until it collapses
-- Ransomware — encrypt everything, demand payment to restore access
+- Distributed Denial of Service (DDoS) - flood the server until it collapses
+- Ransomware - encrypt everything, demand payment to restore access
 - Physical attacks (cutting power, destroying hardware)
 
 ---
@@ -81,7 +81,7 @@ Systems and data are accessible to authorized users when they need them.
 
 ## 💡 The Key Insight
 
-When you read about any attack — past, present, or future — ask yourself:
+When you read about any attack - past, present, or future - ask yourself:
 **Which of the three did it violate? How? What control failed?**
 
 That single habit will make you think like a security professional.
@@ -90,7 +90,7 @@ That single habit will make you think like a security professional.
 
 ## 📚 Resources to Go Deeper
 - [NIST SP 800-12: An Introduction to Information Security](https://csrc.nist.gov/publications/detail/sp/800-12/rev-1/final)
-- [OWASP Security Principles](https://owasp.org/www-project-developer-guide/draft/foundations/security_principles/)
-- [Professor Messer — CIA Triad (free YouTube)](https://www.youtube.com/c/professormesser)
+- [OWASP Security Principles](https://devguide.owasp.org/en/02-foundations/01-security-fundamentals/)
+- [Professor Messer - CIA Triad (free YouTube)](https://youtu.be/SBcDGb9l6yo?si=knRlL-xLK67TrbrT)
 
 ---
