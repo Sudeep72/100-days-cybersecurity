@@ -70,11 +70,11 @@ Systems and data are accessible to authorized users when they need them.
 | Attack | Confidentiality | Integrity | Availability |
 |--------|:--------------:|:---------:|:------------:|
 | Ransomware | ✅ (data stolen first) | ✅ (data encrypted) | ✅ (primary goal) |
-| Data Breach | ✅ | — | — |
-| SQL Injection | ✅ | ✅ | — |
-| DDoS | — | — | ✅ |
-| Phishing | ✅ | — | — |
-| Website Defacement | — | ✅ | — |
+| Data Breach | ✅ | - | - |
+| SQL Injection | ✅ | ✅ | - |
+| DDoS | - | - | ✅ |
+| Phishing | ✅ | - | - |
+| Website Defacement | - | ✅ | - |
 | Insider Threat | ✅ | ✅ | ✅ |
 
 ---
