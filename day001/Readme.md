@@ -1,4 +1,4 @@
-# Day 001 — The CIA Triad: The Foundation of Everything in Cybersecurity
+# Day 001 - The CIA Triad: The Foundation of Everything in Cybersecurity
 
 > **Challenge:** 100 Days of Cybersecurity | **Phase:** Foundations | **Difficulty:** Beginner
 
