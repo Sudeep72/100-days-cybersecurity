@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-0%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-1%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -43,7 +43,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 
 ---
 
-## 🔰 Phase 1: Foundations (Days 001–020)
+## 🔰 Phase 1: Foundations (Days 001-020)
 
 > Build the mental model first. You can't secure or hack what you don't understand.
 
@@ -72,7 +72,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 
 ---
 
-## ⚔️ Phase 2: Offensive Security (Days 021–045)
+## ⚔️ Phase 2: Offensive Security (Days 021-045)
 
 > Think like an attacker. Ethical hacking, web app exploitation, and pen testing methodology.
 
@@ -106,7 +106,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 
 ---
 
-## 🔍 Phase 3: Defensive Security & Detection Engineering (Days 046–065)
+## 🔍 Phase 3: Defensive Security & Detection Engineering (Days 046-065)
 
 > The blue team. SIEM, threat hunting, log analysis, and incident response.
 
@@ -135,7 +135,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 
 ---
 
-## ☁️ Phase 4: Cloud Security (Days 066–080)
+## ☁️ Phase 4: Cloud Security (Days 066-080)
 
 > The future is cloud. Learn to attack and defend AWS and Azure environments.
 
@@ -159,7 +159,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 
 ---
 
-## 🤖 Phase 5: AI × Security (Days 081–095)
+## 🤖 Phase 5: AI × Security (Days 081-095)
 
 > Where my research lives. ML-driven detection, LLM vulnerabilities, and adversarial AI.
 
@@ -183,7 +183,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 
 ---
 
-## 🏆 Phase 6: Professional Portfolio Sprint (Days 096–100)
+## 🏆 Phase 6: Professional Portfolio Sprint (Days 096-100)
 
 > The job hunt. Real projects, a polished portfolio, and strategy to land the offer.
 
