@@ -94,3 +94,8 @@ That single habit will make you think like a security professional.
 - [Professor Messer - CIA Triad (free YouTube)](https://youtu.be/SBcDGb9l6yo?si=knRlL-xLK67TrbrT)
 
 ---
+
+
+## [➡️ Day 002 - How the Internet Actually Works](../day002/)
+ 
+*Part of my [100 Days of Cybersecurity](../README.md) challenge.*
