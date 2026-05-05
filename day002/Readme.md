@@ -128,7 +128,7 @@ def analyze_packet(packet):
             elif flag_list == ["ACK"]:
                 print(f"  ↳ 🤝 Step 3 — ACK: Handshake complete, data can flow")
 
-        # UDP — catch DNS queries
+        # UDP - catch DNS queries
         elif UDP in packet:
             if DNS in packet and packet[DNS].qr == 0:  # qr=0 means query
                 if DNSQR in packet:
