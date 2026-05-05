@@ -169,10 +169,10 @@ sudo python3 packet_analyzer.py
 
 ## 🔑 Key Takeaways
 
-- TCP/IP has 4 layers — each layer has its own attack surface
+- TCP/IP has 4 layers - each layer has its own attack surface
 - The 3-way handshake (SYN → SYN-ACK → ACK) is what SYN flood attacks exploit
-- DNS is the first thing that happens when you visit any site — and one of the most abused protocols
-- Every packet travels through multiple hops — any hop can be a point of interception
+- DNS is the first thing that happens when you visit any site - and one of the most abused protocols
+- Every packet travels through multiple hops - any hop can be a point of interception
 
 ---
 
