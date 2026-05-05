@@ -177,9 +177,9 @@ sudo python3 packet_analyzer.py
 ---
 
 ## 📚 Resources to Go Deeper
-- [Wireshark — free packet capture tool](https://www.wireshark.org/)
+- [Wireshark - free packet capture tool](https://www.wireshark.org/)
 - [Cloudflare: What is TCP/IP?](https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/)
-- [TryHackMe — Pre-Security Path (free)](https://tryhackme.com/path/outline/presecurity)
+- [TryHackMe - Pre-Security Path (free)](https://tryhackme.com/path/outline/presecurity)
 
 ---
 
