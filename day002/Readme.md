@@ -185,4 +185,4 @@ sudo python3 packet_analyzer.py
 
 ## [⬅️ Day 001](../day001/) | [➡️ Day 003](../day003/)
 
-*Part of my [100 Days of Cybersecurity](../) challenge.*
+*Part of my [100 Days of Cybersecurity](../README.md) challenge.*
