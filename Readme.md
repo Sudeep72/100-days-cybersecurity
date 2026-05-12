@@ -49,14 +49,14 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 
 | Day | Topic | Code / Lab | Post |
 |-----|-------|-----------|------|
-| [001](./day001/) | The CIA Triad: Foundation of Everything | - | [🔗](./day001/linkedin_day001.md) |
-| [002](./day002/) | How the Internet Works: TCP/IP Deep Dive | [packet_analyzer.py](./day002/packet_analyzer.py) | [🔗](./day002/linkedin_day002.md) |
-| [003](./day003/) | The OSI Model: Why Every Layer Matters to Attackers | - | [🔗](./day003/linkedin_day003.md) |
-| [004](./day004/) | DNS: The Protocol Hackers Love to Abuse | [dns_enum.py](./day004/dns_enum.py) | [🔗](./day004/linkedin_day004.md) |
-| [005](./day005/) | Firewalls & What They Can't Stop | - | [🔗](./day005/linkedin_day005.md) |
-| [006](./day006/) | Linux for Security: Commands That Actually Matter | [linux_cheatsheet.sh](./day006/linux_cheatsheet.sh) | [🔗](./day006/linkedin_day006.md) |
-| [007](./day007/) | File Permissions & Why Misconfigs Get People Fired | [perm_audit.sh](./day007/perm_audit.sh) | [🔗](./day007/linkedin_day007.md) |
-| [008](./day008/) | Cryptography 101: Symmetric vs Asymmetric | [crypto_basics.py](./day008/crypto_basics.py) | [🔗](./day008/linkedin_day008.md) |
+| [001](./day001/) | The CIA Triad: Foundation of Everything | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-infosec-share-7457155746334531584-4Dfq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
+| [002](./day002/) | How the Internet Works: TCP/IP Deep Dive | [packet_analyzer.py](./day002/packet_analyzer.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-networking-share-7457454177934315521-cx24?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
+| [003](./day003/) | The OSI Model: Why Every Layer Matters to Attackers | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-networking-share-7457842492588208129-DhvC?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
+| [004](./day004/) | DNS: The Protocol Hackers Love to Abuse | [dns_enum.py](./day004/dns_enum.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-dns-share-7458350946725695488-JuVW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
+| [005](./day005/) | Firewalls & What They Can't Stop | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-firewalls-share-7458545288518082560-wr2e?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
+| [006](./day006/) | Linux for Security: Commands That Actually Matter | [linux_cheatsheet.sh](./day006/linux_cheatsheet.sh) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-linux-share-7458917401405931520-cRdY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
+| [007](./day007/) | File Permissions & Why Misconfigs Get People Fired | [perm_audit.sh](./day007/perm_audit.sh) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-linux-share-7459430907867725824-EwnA?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
+| [008](./day008/) | Cryptography 101: Symmetric vs Asymmetric | [crypto_basics.py](./day008/crypto_basics.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-cryptography-share-7459627664992182272-HrVQ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [009](./day009/) | Hashing: How Passwords Are (and Shouldn't Be) Stored | [hash_demo.py](./day009/hash_demo.py) | [🔗](./day009/linkedin_day009.md) |
 | [010](./day010/) | PKI & Certificates: How HTTPS Actually Works | - | [🔗](./day010/linkedin_day010.md) |
 | [011](./day011/) | Authentication vs Authorization: Not the Same Thing | - | [🔗](./day011/linkedin_day011.md) |
