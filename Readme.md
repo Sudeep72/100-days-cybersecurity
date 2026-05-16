@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-12%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-13%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -61,7 +61,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [010](./day010/) | PKI & Certificates: How HTTPS Actually Works | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-https-activity-7460353169009844224-Ntae?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [011](./day011/) | Authentication vs Authorization: Not the Same Thing | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-appsec-activity-7460744356111499264-ftbf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [012](./day012/) | VPNs, Proxies, and Tor: Anonymity Explained | - | [🔗](https://www.linkedin.com/posts/sudeep72_dns-leak-test-activity-7461102610700218368-xCqP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [013](./day013/) | Nmap: Your First Recon Tool | [nmap_basics.sh](./day013/nmap_basics.sh) | [🔗](./day013/linkedin_day013.md) |
+| [013](./day013/) | Nmap: Your First Recon Tool | [nmap_basics.sh](./day013/nmap_basics.sh) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-nmap-activity-7461459106613211136-wgw5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [014](./day014/) | Wireshark: Reading Network Traffic Like a Pro | [analysis_notes.md](./day014/analysis_notes.md) | [🔗](./day014/linkedin_day014.md) |
 | [015](./day015/) | Common Attack Types: A Threat Taxonomy | - | [🔗](./day015/linkedin_day015.md) |
 | [016](./day016/) | Social Engineering: The Human Vulnerability | - | [🔗](./day016/linkedin_day016.md) |
