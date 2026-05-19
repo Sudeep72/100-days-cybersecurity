@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-15%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-16%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -64,7 +64,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [013](./day013/) | Nmap: Your First Recon Tool | [nmap_basics.sh](./day013/nmap_basics.sh) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-nmap-activity-7461459106613211136-wgw5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [014](./day014/) | Wireshark: Reading Network Traffic Like a Pro | [analysis_notes.md](./day014/analysis_notes.md) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-wireshark-activity-7461951913773862912-deeR?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [015](./day015/) | Common Attack Types: A Threat Taxonomy | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-infosec-activity-7462164438306172928-bLDj?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [016](./day016/) | Social Engineering: The Human Vulnerability | - | [🔗](./day016/linkedin_day016.md) |
+| [016](./day016/) | Social Engineering: The Human Vulnerability | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-socialengineering-activity-7462536840890359808-yTUV?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [017](./day017/) | OWASP Top 10: The Web Hacker's Bible | - | [🔗](./day017/linkedin_day017.md) |
 | [018](./day018/) | CVEs & the Vulnerability Lifecycle | [cve_lookup.py](./day018/cve_lookup.py) | [🔗](./day018/linkedin_day018.md) |
 | [019](./day019/) | Setting Up a Free Home Lab (Legal & Safe) | [lab_setup.md](./day019/lab_setup.md) | [🔗](./day019/linkedin_day019.md) |
