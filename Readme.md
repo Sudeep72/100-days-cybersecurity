@@ -67,7 +67,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [016](./day016/) | Social Engineering: The Human Vulnerability | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-socialengineering-activity-7462536840890359808-yTUV?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [017](./day017/) | OWASP Top 10: The Web Hacker's Bible | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-owasp-activity-7462918696194347008-CMe1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [018](./day018/) | CVEs & the Vulnerability Lifecycle | [cve_lookup.py](./day018/cve_lookup.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-cve-activity-7463336011729702912-bfjr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [019](./day019/) | Setting Up a Free Home Lab (Legal & Safe) | [lab_setup.md](./day019/lab_setup.md) | [🔗](./day019/linkedin_day019.md) |
+| [019](./day019/) | Setting Up a Free Home Lab (Legal & Safe) | [lab_setup.md](./day019/lab_setup.md) | [🔗](https://www.linkedin.com/posts/sudeep72_kali-linux-penetration-testing-and-ethical-activity-7463589558656450561-VIqO?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [020](./day020/) | Phase 1 Recap + First CTF Attempt | [ctf_writeup.md](./day020/ctf_writeup.md) | [🔗](./day020/linkedin_day020.md) |
 
 ---
