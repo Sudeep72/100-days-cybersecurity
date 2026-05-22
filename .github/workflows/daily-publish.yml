@@ -1,0 +1,55 @@
+name: Daily Publish
+
+on:
+  schedule:
+    - cron: '0 15 * * *'   # 9 AM CST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Checkout scheduled branch
+        uses: actions/checkout@v4
+        with:
+          ref: scheduled
+          path: scheduled_branch
+
+      - name: Publish next folder
+        run: |
+          next=$(ls scheduled_branch/scheduled | sort | head -n 1)
+
+          if [ -z "$next" ]; then
+            echo "No folders left"
+            exit 0
+          fi
+
+          cp -r "scheduled_branch/scheduled/$next" "./$next"
+          rm -rf "scheduled_branch/scheduled/$next"
+
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add .
+          git commit -m "Publish $next"
+          git push origin main
+
+      - name: Update scheduled branch
+        run: |
+          cd scheduled_branch
+
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add .
+          git commit -m "Remove published folder" || exit 0
+          git push origin HEAD:scheduled
