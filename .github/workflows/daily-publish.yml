@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -41,6 +45,7 @@ jobs:
 
           git add .
           git commit -m "Publish $next"
+          git pull --rebase origin main
           git push origin main
 
       - name: Update scheduled branch
