@@ -68,7 +68,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [017](./day017/) | OWASP Top 10: The Web Hacker's Bible | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-owasp-activity-7462918696194347008-CMe1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [018](./day018/) | CVEs & the Vulnerability Lifecycle | [cve_lookup.py](./day018/cve_lookup.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-cve-activity-7463336011729702912-bfjr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [019](./day019/) | Setting Up a Free Home Lab (Legal & Safe) | [lab_setup.md](./day019/lab_setup.md) | [🔗](https://www.linkedin.com/posts/sudeep72_kali-linux-penetration-testing-and-ethical-activity-7463589558656450561-VIqO?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [020](./day020/) | Phase 1 Recap + First CTF Attempt | [ctf_writeup.md](./day020/ctf_writeup.md) | [🔗](./day020/linkedin_day020.md) |
+| [020](./day020/) | Phase 1 Recap + First CTF Attempt | [ctf_writeup.md](./day020/ctf_writeup.md) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-ctf-share-7463390342529060865-7yKn/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 
 ---
 
@@ -78,8 +78,8 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 
 | Day | Topic | Code / Lab | Post |
 |-----|-------|-----------|------|
-| [021](./day021/) | Penetration Testing Methodology (PTES) | - | [🔗](./day021/linkedin_day021.md) |
-| [022](./day022/) | Passive Recon: OSINT & Footprinting | [osint_toolkit.py](./day022/osint_toolkit.py) | [🔗](./day022/linkedin_day022.md) |
+| [021](./day021/) | Penetration Testing Methodology (PTES) | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-pentesting-share-7463391675042717696-840t/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
+| [022](./day022/) | Passive Recon: OSINT & Footprinting | [osint_toolkit.py](./day022/osint_toolkit.py) | [🔗](https://www.linkedin.com/posts/sudeep72_companycom-share-7463397655293964289-zNTu/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [023](./day023/) | Active Recon: Banner Grabbing & Enumeration | [recon_enum.py](./day023/recon_enum.py) | [🔗](./day023/linkedin_day023.md) |
 | [024](./day024/) | Vulnerability Scanning with OpenVAS | - | [🔗](./day024/linkedin_day024.md) |
 | [025](./day025/) | Metasploit Framework: Basics | [msf_workflow.md](./day025/msf_workflow.md) | [🔗](./day025/linkedin_day025.md) |
