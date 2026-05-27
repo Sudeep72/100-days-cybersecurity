@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-23%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-24%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -80,8 +80,8 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 |-----|-------|-----------|------|
 | [021](./day021/) | Penetration Testing Methodology (PTES) | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-pentesting-share-7463391675042717696-840t/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [022](./day022/) | Passive Recon: OSINT & Footprinting | [osint_toolkit.py](./day022/osint_toolkit.py) | [🔗](https://www.linkedin.com/posts/sudeep72_companycom-share-7463397655293964289-zNTu/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [023](./day023/) | Active Recon: Banner Grabbing & Enumeration | [recon_enum.py](./day023/recon_enum.py) | [🔗](./day023/linkedin_day023.md) |
-| [024](./day024/) | Vulnerability Scanning with OpenVAS | - | [🔗](./day024/linkedin_day024.md) |
+| [023](./day023/) | Active Recon: Banner Grabbing & Enumeration | [recon_enum.py](./day023/recon_enum.py) | [🔗](https://www.linkedin.com/posts/sudeep72_target-expect-more-pay-less-share-7463398683959529472-dbvl/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
+| [024](./day024/) | Vulnerability Scanning with OpenVAS | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-vulnerabilityscanning-activity-7465515822317293569-8m9m?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [025](./day025/) | Metasploit Framework: Basics | [msf_workflow.md](./day025/msf_workflow.md) | [🔗](./day025/linkedin_day025.md) |
 | [026](./day026/) | SQL Injection: From Theory to Exploitation | [sqli_demo.py](./day026/sqli_demo.py) | [🔗](./day026/linkedin_day026.md) |
 | [027](./day027/) | XSS: Stored, Reflected, and DOM-Based | [xss_payloads.md](./day027/xss_payloads.md) | [🔗](./day027/linkedin_day027.md) |
