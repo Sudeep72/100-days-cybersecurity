@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-24%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-30%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -87,7 +87,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [027](./day027/) | XSS: Stored, Reflected, and DOM-Based | [xss_payloads.md](./day027/xss_payloads.md) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-xss-activity-7466488612243804160--ptY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [028](./day028/) | CSRF, IDOR, and Broken Access Control | [csrf_idor_demo.py](./day028/csrf_idor_demo.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-csrf-activity-7466977766358482945-y2PH?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [029](./day029/) | Burp Suite: Web App Proxy Masterclass | [burp_workflow.md](./day029/burp_workflow.md) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-burpsuite-activity-7467336295241940994-rhes?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [030](./day030/) | Authentication Attacks: Brute Force & Credential Stuffing | [auth_attack_demo.py](./day030/auth_attack_demo.py) | [🔗](./day030/linkedin_day030.md) |
+| [030](./day030/) | Authentication Attacks: Brute Force & Credential Stuffing | [auth_attack_demo.py](./day030/auth_attack_demo.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-bruteforce-activity-7467605051419799552-6rWd?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [031](./day031/) | API Hacking: Vulnerabilities in REST APIs | [api_recon.py](./day031/api_recon.py) | [🔗](./day031/linkedin_day031.md) |
 | [032](./day032/) | Server-Side Request Forgery (SSRF) | - | [🔗](./day032/linkedin_day032.md) |
 | [033](./day033/) | File Upload Vulnerabilities & Bypasses | - | [🔗](./day033/linkedin_day033.md) |
