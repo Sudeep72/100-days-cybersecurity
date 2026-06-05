@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-32%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-33%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -90,7 +90,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [030](./day030/) | Authentication Attacks: Brute Force & Credential Stuffing | [auth_attack_demo.py](./day030/auth_attack_demo.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-bruteforce-activity-7467605051419799552-6rWd?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [031](./day031/) | API Hacking: Vulnerabilities in REST APIs | [api_recon.py](./day031/api_recon.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-apihacking-activity-7467973070734127106-LMs9?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [032](./day032/) | Server-Side Request Forgery (SSRF) | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-ssrf-activity-7468323835042271232-1dOF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [033](./day033/) | File Upload Vulnerabilities & Bypasses | - | [🔗](./day033/linkedin_day033.md) |
+| [033](./day033/) | File Upload Vulnerabilities & Bypasses | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-fileupload-activity-7468692121202655232-RGXP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [034](./day034/) | Command Injection & OS Execution | - | [🔗](./day034/linkedin_day034.md) |
 | [035](./day035/) | Privilege Escalation: Linux (GTFOBins & SUID) | [privesc_check.sh](./day035/privesc_check.sh) | [🔗](./day035/linkedin_day035.md) |
 | [036](./day036/) | Privilege Escalation: Windows | [win_privesc.md](./day036/win_privesc.md) | [🔗](./day036/linkedin_day036.md) |
