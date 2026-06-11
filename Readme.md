@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-38%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-39%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -96,7 +96,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [036](./day036/) | Privilege Escalation: Windows | [win_privesc.md](./day036/win_privesc.md) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-privilegeescalation-share-7469860789852520448-KfFm/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [037](./day037/) | Password Cracking: Hashcat & John the Ripper | [crack_guide.py](./day037/crack_guide.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-passwordcracking-activity-7470223894218477568-Y5TF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [038](./day038/) | Wireless Security: WPA2 Attacks & Defenses | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-wirelesssecurity-activity-7470583298411401216-WMYY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [039](./day039/) | Post-Exploitation: What Happens After a Shell | - | [🔗](./day039/linkedin_day039.md) |
+| [039](./day039/) | Post-Exploitation: What Happens After a Shell | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-postexploitation-activity-7470948423131906048-yH2O?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [040](./day040/) | Writing a Professional Pen Test Report | [report_template.md](./day040/report_template.md) | [🔗](./day040/linkedin_day040.md) |
 | [041](./day041/) | CTF Writeup: HackTheBox (Easy Machine) | [htb_writeup.md](./day041/htb_writeup.md) | [🔗](./day041/linkedin_day041.md) |
 | [042](./day042/) | CTF Writeup: TryHackMe Room | [thm_writeup.md](./day042/thm_writeup.md) | [🔗](./day042/linkedin_day042.md) |
