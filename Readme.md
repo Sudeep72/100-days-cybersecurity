@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-42%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-43%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -100,7 +100,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [040](./day040/) | Writing a Professional Pen Test Report | [pentest_report_template.py](./day040/pentest_report_template.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-pentesting-activity-7471312060526546945-cF8_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [041](./day041/) | CTF Writeup: HackTheBox (Easy Machine) | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-hackthebox-activity-7471687995310555136-qJh7?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [042](./day042/) | CTF Writeup: TryHackMe Room | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-tryhackme-activity-7472004732983615489-H8Pn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [043](./day043/) | Building a Subdomain Scanner from Scratch | [subdomain_scanner.py](./day043/subdomain_scanner.py) | [🔗](./day043/linkedin_day043.md) |
+| [043](./day043/) | Building a Subdomain Scanner from Scratch | [subdomain_scanner.py](./day043/subdomain_scanner.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-python-activity-7472396920292827136-Tlol?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [044](./day044/) | OWASP Juice Shop: Full Walkthrough | [juiceshop_notes.md](./day044/juiceshop_notes.md) | [🔗](./day044/linkedin_day044.md) |
 | [045](./day045/) | Phase 2 Capstone: Full Pen Test on Lab VM | [capstone_report.md](./day045/capstone_report.md) | [🔗](./day045/linkedin_day045.md) |
 
