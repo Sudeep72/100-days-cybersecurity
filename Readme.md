@@ -101,7 +101,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [041](./day041/) | CTF Writeup: HackTheBox (Easy Machine) | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-hackthebox-activity-7471687995310555136-qJh7?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [042](./day042/) | CTF Writeup: TryHackMe Room | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-tryhackme-activity-7472004732983615489-H8Pn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [043](./day043/) | Building a Subdomain Scanner from Scratch | [subdomain_scanner.py](./day043/subdomain_scanner.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-python-activity-7472396920292827136-Tlol?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [044](./day044/) | OWASP Juice Shop: Full Walkthrough | [juiceshop_notes.md](./day044/juiceshop_notes.md) | [🔗](./day044/linkedin_day044.md) |
+| [044](./day044/) | OWASP Juice Shop: Full Walkthrough | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-owasp-activity-7472758745895460864-TCXX?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [045](./day045/) | Phase 2 Capstone: Full Pen Test on Lab VM | [capstone_report.md](./day045/capstone_report.md) | [🔗](./day045/linkedin_day045.md) |
 
 ---
