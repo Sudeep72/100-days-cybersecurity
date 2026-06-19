@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-46%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-47%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -113,7 +113,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | Day | Topic | Code / Lab | Post |
 |-----|-------|-----------|------|
 | [046](./day046/) | Blue Team vs Red Team: How Detection Engineering Works | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-detectionengineering-activity-7473484024900952064-LL4O?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [047](./day047/) | Log Analysis: What to Look For and Why | [log_parser.py](./day047/log_parser.py) | [🔗](./day047/linkedin_day047.md) |
+| [047](./day047/) | Log Analysis: What to Look For and Why | [log_parser.py](./day047/log_parser.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-loganalysis-activity-7473768298296549376-nVoF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [048](./day048/) | Splunk: Searching, SPL Queries & Dashboards | [splunk_queries.md](./day048/splunk_queries.md) | [🔗](./day048/linkedin_day048.md) |
 | [049](./day049/) | SIEM Architecture: How It All Fits Together | - | [🔗](./day049/linkedin_day049.md) |
 | [050](./day050/) | Writing Detection Rules: Sigma & YARA | [detection_rules/](./day050/rules/) | [🔗](./day050/linkedin_day050.md) |
