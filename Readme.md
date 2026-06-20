@@ -114,7 +114,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 |-----|-------|-----------|------|
 | [046](./day046/) | Blue Team vs Red Team: How Detection Engineering Works | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-detectionengineering-activity-7473484024900952064-LL4O?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [047](./day047/) | Log Analysis: What to Look For and Why | [log_parser.py](./day047/log_parser.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-loganalysis-activity-7473768298296549376-nVoF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [048](./day048/) | Splunk: Searching, SPL Queries & Dashboards | [splunk_queries.md](./day048/splunk_queries.md) | [🔗](./day048/linkedin_day048.md) |
+| [048](./day048/) | Splunk: Searching, SPL Queries & Dashboards | [splunk_queries.md](./day048/splunk_queries.md) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-splunk-share-7474125568943222784-wD2X/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [049](./day049/) | SIEM Architecture: How It All Fits Together | - | [🔗](./day049/linkedin_day049.md) |
 | [050](./day050/) | Writing Detection Rules: Sigma & YARA | [detection_rules/](./day050/rules/) | [🔗](./day050/linkedin_day050.md) |
 | [051](./day051/) | MITRE ATT&CK: A Defender's Map | [attack_mapper.py](./day051/attack_mapper.py) | [🔗](./day051/linkedin_day051.md) |
