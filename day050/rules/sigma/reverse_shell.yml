@@ -1,0 +1,27 @@
+title: Linux Bash Reverse Shell
+id: 1a3c5e7f-9b1d-3f5a-7c9e-1b3d5f7a9c1e
+status: stable
+description: Detects reverse shell execution patterns via bash,
+  commonly used for post-exploitation.
+references:
+  - https://attack.mitre.org/techniques/T1059/004/
+author: Sudeep Ravichandran — 100 Days of Cybersecurity
+date: 2024/01/15
+tags:
+  - attack.execution
+  - attack.t1059.004
+logsource:
+  product: linux
+  category: process_creation
+detection:
+  selection:
+    Image|endswith: '/bash'
+    CommandLine|contains:
+      - '/dev/tcp/'
+      - '/dev/udp/'
+      - 'bash -i'
+      - '>&'
+  condition: selection
+falsepositives:
+  - Security testing in authorised environments
+level: high

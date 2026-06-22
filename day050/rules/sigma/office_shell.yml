@@ -1,0 +1,33 @@
+title: Office Application Spawning Command Shell
+id: 3b5d1a9c-8f2e-4c7a-b1d3-6e8f2a4c6b8d
+status: stable
+description: Detects Microsoft Office applications spawning
+  cmd.exe or PowerShell — classic macro malware indicator.
+references:
+  - https://attack.mitre.org/techniques/T1566/001/
+author: Sudeep Ravichandran — 100 Days of Cybersecurity
+date: 2024/01/15
+tags:
+  - attack.initial_access
+  - attack.t1566.001
+  - attack.execution
+logsource:
+  category: process_creation
+  product: windows
+detection:
+  selection:
+    ParentImage|contains:
+      - '\winword.exe'
+      - '\excel.exe'
+      - '\powerpnt.exe'
+      - '\outlook.exe'
+    Image|endswith:
+      - '\cmd.exe'
+      - '\powershell.exe'
+      - '\wscript.exe'
+      - '\cscript.exe'
+      - '\mshta.exe'
+  condition: selection
+falsepositives:
+  - Legitimate Office macros (rare)
+level: high

@@ -1,0 +1,26 @@
+title: New Local Administrator Account Created
+id: 7f9a1c3e-5b7d-9f1a-3c5e-7b9d1f3a5c7e
+status: stable
+description: Detects creation of new local administrator accounts,
+  commonly used for persistence after compromise.
+references:
+  - https://attack.mitre.org/techniques/T1136/001/
+author: Sudeep Ravichandran — 100 Days of Cybersecurity
+date: 2024/01/15
+tags:
+  - attack.persistence
+  - attack.t1136.001
+logsource:
+  product: windows
+  service: security
+detection:
+  selection_created:
+    EventID: 4720
+  selection_admin:
+    EventID: 4732
+    GroupName: 'Administrators'
+  condition: selection_created or selection_admin
+falsepositives:
+  - IT helpdesk creating accounts
+  - Onboarding processes
+level: medium

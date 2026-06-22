@@ -1,0 +1,28 @@
+title: Scheduled Task Created via Command Line
+id: 5c7e9a1b-3d5f-7a9c-e1b3-5d7f9a1b3c5e
+status: stable
+description: Detects scheduled task creation via schtasks.exe,
+  a common persistence mechanism.
+references:
+  - https://attack.mitre.org/techniques/T1053/005/
+author: Sudeep Ravichandran — 100 Days of Cybersecurity
+date: 2024/01/15
+tags:
+  - attack.persistence
+  - attack.t1053.005
+logsource:
+  category: process_creation
+  product: windows
+detection:
+  selection:
+    Image|endswith: '\schtasks.exe'
+    CommandLine|contains: '/create'
+  filter_system:
+    User|contains:
+      - 'SYSTEM'
+      - 'LOCAL SERVICE'
+  condition: selection and not filter_system
+falsepositives:
+  - Legitimate software installers
+  - IT automation tools
+level: medium

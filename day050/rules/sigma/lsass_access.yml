@@ -1,0 +1,32 @@
+title: LSASS Memory Access — Credential Dumping
+id: 9a2c4e6f-1b3d-5f7a-c9e1-3b5d7f9a1c3e
+status: stable
+description: Detects access to LSASS process memory,
+  used by Mimikatz and similar tools to dump credentials.
+references:
+  - https://attack.mitre.org/techniques/T1003/001/
+author: Sudeep Ravichandran — 100 Days of Cybersecurity
+date: 2024/01/15
+tags:
+  - attack.credential_access
+  - attack.t1003.001
+logsource:
+  product: windows
+  category: process_access
+detection:
+  selection:
+    TargetImage|endswith: '\lsass.exe'
+    GrantedAccess|contains:
+      - '0x1010'
+      - '0x1038'
+      - '0x40'
+      - '0x1fffff'
+  filter_legitimate:
+    SourceImage|contains:
+      - '\MsMpEng.exe'
+      - '\svchost.exe'
+      - '\taskmgr.exe'
+  condition: selection and not filter_legitimate
+falsepositives:
+  - AV/EDR products accessing LSASS (filtered)
+level: critical
