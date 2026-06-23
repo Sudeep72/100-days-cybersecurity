@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-50%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-51%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -117,7 +117,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [048](./day048/) | Splunk: Searching, SPL Queries & Dashboards | [splunk_queries.md](./day048/splunk_queries.md) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-splunk-share-7474125568943222784-wD2X/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [049](./day049/) | SIEM Architecture: How It All Fits Together | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-siem-activity-7474479299442393088-HeOW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [050](./day050/) | Writing Detection Rules: Sigma & YARA | [detection_rules/](./day050/rules/) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-sigma-activity-7474821895662665728-9wbs?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [051](./day051/) | MITRE ATT&CK: A Defender's Map | [attack_mapper.py](./day051/attack_mapper.py) | [🔗](./day051/linkedin_day051.md) |
+| [051](./day051/) | MITRE ATT&CK: A Defender's Map | [attack_mapper.py](./day051/attack_mapper.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-mitreattack-share-7475294677844467712-fFu6/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [052](./day052/) | Threat Intelligence: IOCs, TTPs & Feeds | [ioc_enricher.py](./day052/ioc_enricher.py) | [🔗](./day052/linkedin_day052.md) |
 | [053](./day053/) | Network Traffic Analysis: Spotting Anomalies | [traffic_baseline.py](./day053/traffic_baseline.py) | [🔗](./day053/linkedin_day053.md) |
 | [054](./day054/) | UEBA: User and Entity Behavior Analytics | [ueba_demo.py](./day054/ueba_demo.py) | [🔗](./day054/linkedin_day054.md) |
