@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-52%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-53%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -119,7 +119,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [050](./day050/) | Writing Detection Rules: Sigma & YARA | [detection_rules/](./day050/rules/) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-sigma-activity-7474821895662665728-9wbs?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [051](./day051/) | MITRE ATT&CK: A Defender's Map | [attack_mapper.py](./day051/attack_mapper.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-mitreattack-share-7475294677844467712-fFu6/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [052](./day052/) | Threat Intelligence: IOCs, TTPs & Feeds | [ioc_enricher.py](./day052/ioc_enricher.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-threatintelligence-share-7475536984820719616-y47v/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [053](./day053/) | Network Traffic Analysis: Spotting Anomalies | [traffic_baseline.py](./day053/traffic_baseline.py) | [🔗](./day053/linkedin_day053.md) |
+| [053](./day053/) | Network Traffic Analysis: Spotting Anomalies | [traffic_baseline.py](./day053/traffic_baseline.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-networksecurity-share-7476026151434383360-q401/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [054](./day054/) | UEBA: User and Entity Behavior Analytics | [ueba_demo.py](./day054/ueba_demo.py) | [🔗](./day054/linkedin_day054.md) |
 | [055](./day055/) | Incident Response: The 6-Phase Process | [ir_playbook.md](./day055/ir_playbook.md) | [🔗](./day055/linkedin_day055.md) |
 | [056](./day056/) | Digital Forensics: Disk & Memory Analysis | - | [🔗](./day056/linkedin_day056.md) |
