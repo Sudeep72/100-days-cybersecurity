@@ -321,6 +321,8 @@ def main():
 if __name__ == "__main__":
     main()
 
+```
+
 ## [⬅️ Day 052](../day052/) | [➡️ Day 054](../day054/)
 
 *Part of my [100 Days of Cybersecurity](../README.md) challenge.*
