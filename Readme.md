@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-54%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-56%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -122,7 +122,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [053](./day053/) | Network Traffic Analysis: Spotting Anomalies | [traffic_baseline.py](./day053/traffic_baseline.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-networksecurity-share-7476026151434383360-q401/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [054](./day054/) | UEBA: User and Entity Behavior Analytics | [ueba_demo.py](./day054/ueba_demo.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-ueba-share-7476384294580654081-ahs3/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [055](./day055/) | Incident Response: The 6-Phase Process | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-incidentresponse-share-7476670960264171522-f2WJ/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [056](./day056/) | Digital Forensics: Disk & Memory Analysis | - | [🔗](./day056/linkedin_day056.md) |
+| [056](./day056/) | Digital Forensics: Disk & Memory Analysis | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-digitalforensics-share-7477014815836659712-jSqR/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [057](./day057/) | Malware Analysis 101: Static vs Dynamic | [mal_analysis.md](./day057/mal_analysis.md) | [🔗](./day057/linkedin_day057.md) |
 | [058](./day058/) | IDS/IPS: Writing Snort Rules | [snort_rules.md](./day058/snort_rules.md) | [🔗](./day058/linkedin_day058.md) |
 | [059](./day059/) | Threat Hunting: Proactive Detection | [hunt_playbook.md](./day059/hunt_playbook.md) | [🔗](./day059/linkedin_day059.md) |
