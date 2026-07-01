@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-58%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-59%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -125,7 +125,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [056](./day056/) | Digital Forensics: Disk & Memory Analysis | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-digitalforensics-share-7477014815836659712-jSqR/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [057](./day057/) | Malware Analysis 101: Static vs Dynamic | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-malwareanalysis-share-7477469500137709568-kv-Y/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [058](./day058/) | IDS/IPS: Writing Snort Rules | [snort_rules.md](./day058/snort_rules.md) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-snort-share-7477827634098491393-wNhx/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [059](./day059/) | Threat Hunting: Proactive Detection | [hunt_playbook.md](./day059/hunt_playbook.md) | [🔗](./day059/linkedin_day059.md) |
+| [059](./day059/) | Threat Hunting: Proactive Detection | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-threathunting-share-7478191949091450880-REWc/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [060](./day060/) | Ransomware: How It Works & How to Detect It | [ransomware_iocs.md](./day060/ransomware_iocs.md) | [🔗](./day060/linkedin_day060.md) |
 | [061](./day061/) | SOC Analyst Workflow: A Day in the Life | - | [🔗](./day061/linkedin_day061.md) |
 | [062](./day062/) | Building an Automated Alert Triage Tool | [alert_triage.py](./day062/alert_triage.py) | [🔗](./day062/linkedin_day062.md) |
