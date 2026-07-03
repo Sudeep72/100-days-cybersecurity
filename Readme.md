@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-60%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-61%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -127,7 +127,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [058](./day058/) | IDS/IPS: Writing Snort Rules | [snort_rules.md](./day058/snort_rules.md) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-snort-share-7477827634098491393-wNhx/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [059](./day059/) | Threat Hunting: Proactive Detection | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-threathunting-share-7478191949091450880-REWc/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [060](./day060/) | Ransomware: How It Works & How to Detect It | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-ransomware-share-7478556819997552640-TX1n/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [061](./day061/) | SOC Analyst Workflow: A Day in the Life | - | [🔗](./day061/linkedin_day061.md) |
+| [061](./day061/) | SOC Analyst Workflow: A Day in the Life | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-soc-share-7478823412333940736-naWw/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [062](./day062/) | Building an Automated Alert Triage Tool | [alert_triage.py](./day062/alert_triage.py) | [🔗](./day062/linkedin_day062.md) |
 | [063](./day063/) | Zero Trust Architecture Explained | - | [🔗](./day063/linkedin_day063.md) |
 | [064](./day064/) | Security Metrics: What to Measure & Why | - | [🔗](./day064/linkedin_day064.md) |
