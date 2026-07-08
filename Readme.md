@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-65%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-66%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -142,7 +142,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 
 | Day | Topic | Code / Lab | Post |
 |-----|-------|-----------|------|
-| [066](./day066/) | Cloud Security 101: Shared Responsibility Model | - | [🔗](./day066/linkedin_day066.md) |
+| [066](./day066/) | Cloud Security 101: Shared Responsibility Model | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-cloudsecurity-share-7480608735531565057-VMmU/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [067](./day067/) | AWS IAM: Permissions, Roles & Least Privilege | [iam_audit.py](./day067/iam_audit.py) | [🔗](./day067/linkedin_day067.md) |
 | [068](./day068/) | S3 Misconfigurations: A Real-World Epidemic | [s3_audit.py](./day068/s3_audit.py) | [🔗](./day068/linkedin_day068.md) |
 | [069](./day069/) | Cloud Attack Techniques: Top 10 | - | [🔗](./day069/linkedin_day069.md) |
