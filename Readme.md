@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-64%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-65%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -131,7 +131,8 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [062](./day062/) | Building an Automated Alert Triage Tool | [alert_triage.py](./day062/alert_triage.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-soc-share-7479218277244674048-9FFv/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [063](./day063/) | Zero Trust Architecture Explained | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-zerotrust-share-7479554220791066624-ojE6/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [064](./day064/) | Security Metrics: What to Measure & Why | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-securitymetrics-share-7479891377883873280-qnVe/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [065](./day065/) | Phase 3 Capstone: Building a Detection Lab | [detection_lab/](./day065/lab/) | [🔗](./day065/linkedin_day065.md) |
+<!-- | [065](./day065/) | Phase 3 Capstone: Building a Detection Lab | [detection_lab/](./day065/lab/) | [🔗](./day065/linkedin_day065.md) | -->
+| [065](./day065/) | Phase 3 Capstone: Building a Detection Lab | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-detectionengineering-share-7480369710099005440-euB6/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 
 ---
 
