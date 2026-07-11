@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-66%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-69%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -145,7 +145,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [066](./day066/) | Cloud Security 101: Shared Responsibility Model | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-cloudsecurity-share-7480608735531565057-VMmU/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [067](./day067/) | AWS IAM: Permissions, Roles & Least Privilege | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-aws-share-7480972271520731136-WLEi/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [068](./day068/) | S3 Misconfigurations: A Real-World Epidemic | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-aws-share-7481335233292959744-IhRJ/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [069](./day069/) | Cloud Attack Techniques: Top 10 | - | [🔗](./day069/linkedin_day069.md) |
+| [069](./day069/) | Cloud Attack Techniques: Top 10 | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-aws-share-7481731473952374784-5hEB/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [070](./day070/) | AWS CloudTrail: Logging & Monitoring | [cloudtrail_parser.py](./day070/cloudtrail_parser.py) | [🔗](./day070/linkedin_day070.md) |
 | [071](./day071/) | AWS GuardDuty: Threat Detection at Scale | - | [🔗](./day071/linkedin_day071.md) |
 | [072](./day072/) | Container Security: Docker & Kubernetes Threats | [container_audit.sh](./day072/container_audit.sh) | [🔗](./day072/linkedin_day072.md) |
