@@ -146,7 +146,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [067](./day067/) | AWS IAM: Permissions, Roles & Least Privilege | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-aws-share-7480972271520731136-WLEi/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [068](./day068/) | S3 Misconfigurations: A Real-World Epidemic | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-aws-share-7481335233292959744-IhRJ/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [069](./day069/) | Cloud Attack Techniques: Top 10 | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-aws-share-7481731473952374784-5hEB/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [070](./day070/) | AWS CloudTrail: Logging & Monitoring | [cloudtrail_parser.py](./day070/cloudtrail_parser.py) | [🔗](./day070/linkedin_day070.md) |
+| [070](./day070/) | AWS CloudTrail: Logging & Monitoring | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-aws-share-7482099436471406592-KdLf/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [071](./day071/) | AWS GuardDuty: Threat Detection at Scale | - | [🔗](./day071/linkedin_day071.md) |
 | [072](./day072/) | Container Security: Docker & Kubernetes Threats | [container_audit.sh](./day072/container_audit.sh) | [🔗](./day072/linkedin_day072.md) |
 | [073](./day073/) | Serverless Security: Lambda Attack Vectors | - | [🔗](./day073/linkedin_day073.md) |
