@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-69%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-71%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -147,7 +147,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [068](./day068/) | S3 Misconfigurations: A Real-World Epidemic | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-aws-share-7481335233292959744-IhRJ/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [069](./day069/) | Cloud Attack Techniques: Top 10 | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-aws-share-7481731473952374784-5hEB/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [070](./day070/) | AWS CloudTrail: Logging & Monitoring | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-aws-share-7482099436471406592-KdLf/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [071](./day071/) | AWS GuardDuty: Threat Detection at Scale | - | [🔗](./day071/linkedin_day071.md) |
+| [071](./day071/) | AWS GuardDuty: Threat Detection at Scale | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-aws-share-7482542222643695616-eXey/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [072](./day072/) | Container Security: Docker & Kubernetes Threats | [container_audit.sh](./day072/container_audit.sh) | [🔗](./day072/linkedin_day072.md) |
 | [073](./day073/) | Serverless Security: Lambda Attack Vectors | - | [🔗](./day073/linkedin_day073.md) |
 | [074](./day074/) | Azure Sentinel: Cloud-Native SIEM | - | [🔗](./day074/linkedin_day074.md) |
