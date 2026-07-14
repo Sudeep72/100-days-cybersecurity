@@ -148,7 +148,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [069](./day069/) | Cloud Attack Techniques: Top 10 | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-aws-share-7481731473952374784-5hEB/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [070](./day070/) | AWS CloudTrail: Logging & Monitoring | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-aws-share-7482099436471406592-KdLf/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [071](./day071/) | AWS GuardDuty: Threat Detection at Scale | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-aws-share-7482542222643695616-eXey/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [072](./day072/) | Container Security: Docker & Kubernetes Threats | [container_audit.sh](./day072/container_audit.sh) | [🔗](./day072/linkedin_day072.md) |
+| [072](./day072/) | Container Security: Docker & Kubernetes Threats | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-containersecurity-share-7482781405605949440-qK0p/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [073](./day073/) | Serverless Security: Lambda Attack Vectors | - | [🔗](./day073/linkedin_day073.md) |
 | [074](./day074/) | Azure Sentinel: Cloud-Native SIEM | - | [🔗](./day074/linkedin_day074.md) |
 | [075](./day075/) | Cloud Pen Testing: Methodology & Tools | [cloud_enum.py](./day075/cloud_enum.py) | [🔗](./day075/linkedin_day075.md) |
