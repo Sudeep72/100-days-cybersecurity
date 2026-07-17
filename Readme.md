@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-71%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-75%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -151,7 +151,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [072](./day072/) | Container Security: Docker & Kubernetes Threats | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-containersecurity-share-7482781405605949440-qK0p/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [073](./day073/) | Serverless Security: Lambda Attack Vectors | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-aws-activity-7483297421368664065-jVS2?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [074](./day074/) | Azure Sentinel: Cloud-Native SIEM | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-microsoftsentinel-activity-7483509192691974144-HMrQ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [075](./day075/) | Cloud Pen Testing: Methodology & Tools | [cloud_enum.py](./day075/cloud_enum.py) | [🔗](./day075/linkedin_day075.md) |
+| [075](./day075/) | Cloud Pen Testing: Methodology & Tools | [cloud_enum.py](./day075/cloud_enum.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-cloudsecurity-activity-7483879721567653888-Nl3-?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [076](./day076/) | Secrets Management: Vault & AWS Secrets Manager | - | [🔗](./day076/linkedin_day076.md) |
 | [077](./day077/) | DevSecOps: Shifting Security Left in CI/CD | [ci_security_scan.yml](./day077/ci_security_scan.yml) | [🔗](./day077/linkedin_day077.md) |
 | [078](./day078/) | IaC Security: Scanning Terraform for Misconfigs | [tf_security_check.py](./day078/tf_security_check.py) | [🔗](./day078/linkedin_day078.md) |
