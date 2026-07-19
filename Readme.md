@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-76%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-77%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -153,7 +153,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [074](./day074/) | Azure Sentinel: Cloud-Native SIEM | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-microsoftsentinel-activity-7483509192691974144-HMrQ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [075](./day075/) | Cloud Pen Testing: Methodology & Tools | [cloud_enum.py](./day075/cloud_enum.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-cloudsecurity-activity-7483879721567653888-Nl3-?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [076](./day076/) | Secrets Management: Vault & AWS Secrets Manager | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-secretsmanagement-activity-7484269858373783552-V8ak?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [077](./day077/) | DevSecOps: Shifting Security Left in CI/CD | [ci_security_scan.yml](./day077/ci_security_scan.yml) | [🔗](./day077/linkedin_day077.md) |
+| [077](./day077/) | DevSecOps: Shifting Security Left in CI/CD | [ci_security_scan.yml](./day077/ci_security_scan.yml) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-devsecops-activity-7484631112779059201-flUa?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [078](./day078/) | IaC Security: Scanning Terraform for Misconfigs | [tf_security_check.py](./day078/tf_security_check.py) | [🔗](./day078/linkedin_day078.md) |
 | [079](./day079/) | Cloud Incident Response: What's Different | [cloud_ir_playbook.md](./day079/cloud_ir_playbook.md) | [🔗](./day079/linkedin_day079.md) |
 | [080](./day080/) | Phase 4 Capstone: Full Cloud Environment Audit | [cloud_audit/](./day080/capstone/) | [🔗](./day080/linkedin_day080.md) |

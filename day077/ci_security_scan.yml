@@ -1,0 +1,263 @@
+name: DevSecOps Pipeline
+on:
+  pull_request:
+    branches: [main, develop]
+  push:
+    branches: [main]
+
+env:
+  REGISTRY: ghcr.io
+  IMAGE_NAME: ${{ github.repository }}
+
+jobs:
+  # Stage 1: Pre-commit checks
+  pre-commit:
+    runs-on: ubuntu-latest
+    name: Pre-Commit Security Checks
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Detect Secrets
+        uses: trufflesecurity/trufflehog@main
+        with:
+          path: ./
+          base: ${{ github.event.repository.default_branch }}
+          head: HEAD
+          extra_args: --debug
+
+      - name: Check Code Format
+        uses: psf/black@23.1.0
+        with:
+          options: "--check --verbose"
+          src: ./src
+
+  # Stage 2: Static Application Security Testing
+  sast:
+    runs-on: ubuntu-latest
+    name: SAST - Code Vulnerability Scanning
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: SonarQube Scan
+        uses: SonarSource/sonarcloud-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+
+      - name: Bandit - Python Security Check
+        run: |
+          pip install bandit
+          bandit -r ./src -f json -o bandit-report.json || true
+          if grep -q '"severity": "HIGH"' bandit-report.json; then
+            echo "[!] Critical security issues found!"
+            exit 1
+          fi
+
+      - name: Semgrep Scan
+        run: |
+          pip install semgrep
+          semgrep --config p/security-audit ./src --json > semgrep-report.json || true
+          if grep -q '"severity": "CRITICAL"' semgrep-report.json; then
+            exit 1
+          fi
+
+  # Stage 3: Dependency Vulnerability Scanning
+  dependencies:
+    runs-on: ubuntu-latest
+    name: Dependency Security Scanning
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Safety - Python Dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install safety
+          safety check --json > safety-report.json || true
+          if grep -q '"severity": "high"' safety-report.json; then
+            echo "[!] Vulnerable Python dependencies found!"
+            exit 1
+          fi
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: npm audit
+        if: hashFiles('package.json') != ''
+        run: |
+          npm ci
+          npm audit --json > npm-audit-report.json || true
+          if grep -q '"severity":"high"' npm-audit-report.json; then
+            echo "[!] Vulnerable npm dependencies found!"
+            exit 1
+          fi
+
+      - name: Snyk Scan
+        uses: snyk/actions/setup@master
+      - run: snyk test --severity-threshold=high || true
+
+  # Stage 4: Container Build & Scanning
+  container:
+    runs-on: ubuntu-latest
+    name: Container Security
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Build Docker Image
+        uses: docker/build-push-action@v4
+        with:
+          context: .
+          load: true
+          tags: ${{ env.IMAGE_NAME }}:${{ github.sha }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+      - name: Scan with Trivy
+        uses: aquasecurity/trivy-action@master
+        with:
+          image-ref: ${{ env.IMAGE_NAME }}:${{ github.sha }}
+          format: 'sarif'
+          output: 'trivy-results.sarif'
+          severity: 'CRITICAL,HIGH'
+
+      - name: Upload Trivy Results
+        uses: github/codeql-action/upload-sarif@v2
+        with:
+          sarif_file: 'trivy-results.sarif'
+
+      - name: Grype Scan
+        uses: anchore/scan-action@v3
+        with:
+          image: ${{ env.IMAGE_NAME }}:${{ github.sha }}
+          fail-build: true
+          severity-cutoff: high
+
+      - name: Scan for Secrets in Image
+        run: |
+          pip install truffleHog
+          docker save ${{ env.IMAGE_NAME }}:${{ github.sha }} | tar x -O | trufflehog filesystem - --json > image-secrets.json || true
+          if [ -s image-secrets.json ]; then
+            echo "[!] Secrets found in image!"
+            exit 1
+          fi
+
+      - name: Sign Image
+        run: |
+          pip install cosign
+          # Sign the image (requires signing key)
+          # cosign sign ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ github.sha }}
+          echo "Image signing step (requires keys)"
+
+      - name: Log in to Container Registry
+        if: github.ref == 'refs/heads/main'
+        uses: docker/login-action@v2
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push Image (only on main branch)
+        if: github.ref == 'refs/heads/main'
+        uses: docker/build-push-action@v4
+        with:
+          context: .
+          push: true
+          tags: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ github.sha }}
+
+  # Stage 5: Infrastructure as Code Scanning
+  iac:
+    runs-on: ubuntu-latest
+    name: Infrastructure as Code Security
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Terraform
+        uses: hashicorp/setup-terraform@v2
+
+      - name: tfsec Scan
+        run: |
+          wget https://github.com/aquasecurity/tfsec/releases/download/v1.26.0/tfsec-linux-amd64
+          chmod +x tfsec-linux-amd64
+          ./tfsec-linux-amd64 . --format json > tfsec-report.json || true
+          if grep -q '"severity":"CRITICAL"' tfsec-report.json; then
+            echo "[!] Critical infrastructure issues found!"
+            exit 1
+          fi
+
+      - name: Checkov Scan
+        uses: bridgecrewio/checkov-action@master
+        with:
+          directory: .
+          framework: terraform,dockerfile,kubernetes
+
+      - name: OPA Policy Check
+        run: |
+          echo "OPA policy enforcement (requires Rego rules)"
+          # opa test ./policies -v
+
+  # Stage 6: Dynamic Application Security Testing (Staging)
+  dast:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    name: DAST - Runtime Security Testing
+    needs: container
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Deploy to Staging
+        run: |
+          echo "Deploying to staging environment"
+          # kubectl apply -f manifests/ --namespace=staging
+          # kubectl wait --for=condition=ready pod -l app=web --timeout=300s
+
+      - name: OWASP ZAP Baseline Scan
+        uses: zaproxy/action-baseline@v0.7.0
+        with:
+          target: 'http://localhost:8080'
+          rules_file_name: '.zap/rules.tsv'
+          cmd_options: '-a'
+
+      - name: Check ZAP Results
+        run: |
+          if grep -q "RISK: High\|RISK: Critical" report_html.html; then
+            echo "[!] High-risk vulnerabilities found in DAST!"
+            exit 1
+          fi
+
+  # Stage 7: Quality Gate
+  quality-gate:
+    runs-on: ubuntu-latest
+    name: Quality Gate
+    needs: [pre-commit, sast, dependencies, container, iac]
+    if: always()
+    steps:
+      - name: Check Pipeline Status
+        run: |
+          if [ "${{ needs.pre-commit.result }}" = "failure" ] || \
+             [ "${{ needs.sast.result }}" = "failure" ] || \
+             [ "${{ needs.dependencies.result }}" = "failure" ] || \
+             [ "${{ needs.container.result }}" = "failure" ] || \
+             [ "${{ needs.iac.result }}" = "failure" ]; then
+            echo "[!] Pipeline failed security checks!"
+            exit 1
+          fi
+          echo "[+] All security gates passed!"
