@@ -155,7 +155,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [076](./day076/) | Secrets Management: Vault & AWS Secrets Manager | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-secretsmanagement-activity-7484269858373783552-V8ak?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [077](./day077/) | DevSecOps: Shifting Security Left in CI/CD | [ci_security_scan.yml](./day077/ci_security_scan.yml) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-devsecops-activity-7484631112779059201-flUa?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [078](./day078/) | IaC Security: Scanning Terraform for Misconfigs | [tf_security_check.py](./day078/tf_security_check.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-iac-activity-7484963613494116352-rkgK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [079](./day079/) | Cloud Incident Response: What's Different | [cloud_ir_playbook.md](./day079/cloud_ir_playbook.md) | [🔗](./day079/linkedin_day079.md) |
+| [079](./day079/) | Cloud Incident Response: What's Different | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-incidentresponse-activity-7485438379313025024-iJd1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [080](./day080/) | Phase 4 Capstone: Full Cloud Environment Audit | [cloud_audit/](./day080/capstone/) | [🔗](./day080/linkedin_day080.md) |
 
 ---
