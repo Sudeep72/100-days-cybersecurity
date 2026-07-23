@@ -166,7 +166,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 
 | Day | Topic | Code / Lab | Post |
 |-----|-------|-----------|------|
-| [081](./day081/) | Why AI is Changing Cybersecurity | - | [🔗](./day081/linkedin_day081.md) |
+| [081](./day081/) | Why AI is Changing Cybersecurity | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-artificialintelligence-activity-7486046257262534656-4VTi?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [082](./day082/) | Anomaly Detection with Isolation Forest | [isolation_forest.py](./day082/isolation_forest.py) | [🔗](./day082/linkedin_day082.md) |
 | [083](./day083/) | Network Intrusion Detection with ML | [nids_ml.py](./day083/nids_ml.py) | [🔗](./day083/linkedin_day083.md) |
 | [084](./day084/) | Log Anomaly Detection: DeepLog vs LogREx | [log_anomaly.py](./day084/log_anomaly.py) | [🔗](./day084/linkedin_day084.md) |
