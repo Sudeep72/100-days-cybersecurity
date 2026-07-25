@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-80%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-83%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -168,7 +168,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 |-----|-------|-----------|------|
 | [081](./day081/) | Why AI is Changing Cybersecurity | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-artificialintelligence-activity-7486046257262534656-4VTi?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [082](./day082/) | Anomaly Detection with Isolation Forest | [isolation_forest.py](./day082/isolation_forest.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-machinelearning-activity-7486413794944962560-pNpu?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [083](./day083/) | Network Intrusion Detection with ML | [nids_ml.py](./day083/nids_ml.py) | [🔗](./day083/linkedin_day083.md) |
+| [083](./day083/) | Network Intrusion Detection with ML | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-networksecurity-activity-7486805750544003072-IxCf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [084](./day084/) | Log Anomaly Detection: DeepLog vs LogREx | [log_anomaly.py](./day084/log_anomaly.py) | [🔗](./day084/linkedin_day084.md) |
 | [085](./day085/) | Phishing Detection with NLP | [phishing_detector.py](./day085/phishing_detector.py) | [🔗](./day085/linkedin_day085.md) |
 | [086](./day086/) | LLM Security: Prompt Injection Attacks | [prompt_injection.md](./day086/prompt_injection.md) | [🔗](./day086/linkedin_day086.md) |
