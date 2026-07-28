@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-83%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-86%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -171,7 +171,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [083](./day083/) | Network Intrusion Detection with ML | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-networksecurity-activity-7486805750544003072-IxCf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [084](./day084/) | Log Anomaly Detection: DeepLog vs LogREx | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-ai-activity-7487170264489697281-ae-m?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [085](./day085/) | Phishing Detection with NLP | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-phishing-activity-7487502944897093632-i8qP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [086](./day086/) | LLM Security: Prompt Injection Attacks | [prompt_injection.md](./day086/prompt_injection.md) | [🔗](./day086/linkedin_day086.md) |
+| [086](./day086/) | LLM Security: Prompt Injection Attacks | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-llm-activity-7487855608595918848-Y72W?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [087](./day087/) | Jailbreaking LLMs: AI Red Teaming | - | [🔗](./day087/linkedin_day087.md) |
 | [088](./day088/) | RAG Poisoning & Data Exfiltration Attacks | - | [🔗](./day088/linkedin_day088.md) |
 | [089](./day089/) | Adversarial ML: Evading AI-Based Detectors | [adversarial_demo.py](./day089/adversarial_demo.py) | [🔗](./day089/linkedin_day089.md) |
