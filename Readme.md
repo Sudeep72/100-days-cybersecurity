@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-90%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-91%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -176,7 +176,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [088](./day088/) | RAG Poisoning & Data Exfiltration Attacks | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-rag-activity-7488694748514316288-Xc_L?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [089](./day089/) | Adversarial ML: Evading AI-Based Detectors | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-adversarialml-activity-7488947589761953792-Pfle?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [090](./day090/) | AI-Powered Threat Intelligence Pipelines | [ti_pipeline.py](./day090/ti_pipeline.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-threatintelligence-activity-7489311864573796352-Iiyb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [091](./day091/) | Using LLMs for Alert Triage (Inspired by LogREx) | [llm_triage.py](./day091/llm_triage.py) | [🔗](./day091/linkedin_day091.md) |
+| [091](./day091/) | Explainable Alert Triage Using LLMs (Inspired by LogREx) | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-ai-activity-7489723668852305920-kKG6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [092](./day092/) | Knowledge Graphs for Security Context | [kg_security.py](./day092/kg_security.py) | [🔗](./day092/linkedin_day092.md) |
 | [093](./day093/) | Deepfake & Synthetic Media Threats | - | [🔗](./day093/linkedin_day093.md) |
 | [094](./day094/) | AI Governance & Responsible Security AI | - | [🔗](./day094/linkedin_day094.md) |
