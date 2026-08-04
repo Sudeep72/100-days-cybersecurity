@@ -178,7 +178,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | [090](./day090/) | AI-Powered Threat Intelligence Pipelines | [ti_pipeline.py](./day090/ti_pipeline.py) | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-threatintelligence-activity-7489311864573796352-Iiyb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [091](./day091/) | Explainable Alert Triage Using LLMs (Inspired by LogREx) | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-ai-activity-7489723668852305920-kKG6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [092](./day092/) | Knowledge Graphs for Security Context | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-knowledgegraphs-activity-7490019449937260544-YVwT?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [093](./day093/) | Deepfake & Synthetic Media Threats | - | [🔗](./day093/linkedin_day093.md) |
+| [093](./day093/) | Deepfake & Synthetic Media Threats | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-deepfakes-activity-7490513749183926272-ZABO?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [094](./day094/) | AI Governance & Responsible Security AI | - | [🔗](./day094/linkedin_day094.md) |
 | [095](./day095/) | Phase 5 Capstone: AI-Powered SIEM Alert Explainer | [ai_siem_explainer/](./day095/project/) | [🔗](./day095/linkedin_day095.md) |
 
