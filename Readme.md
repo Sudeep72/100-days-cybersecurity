@@ -4,7 +4,7 @@
 
 **A complete, beginner-to-advanced cybersecurity curriculum - built in public, one day at a time.**
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-96%2F100-red?style=flat-square)](#)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-97%2F100-red?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/Follow%20the%20Journey-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudeep72)
 [![GitHub Stars](https://img.shields.io/github/stars/Sudeep72/100-days-cybersecurity?style=flat-square&color=yellow)](#)
 
@@ -191,7 +191,7 @@ Phase 6 │ Portfolio Sprint    │ Days 096 – 100  │ Capstone Projects, Int
 | Day | Topic | Code / Lab | Post |
 |-----|-------|-----------|------|
 | [096](./day096/) | Building a Security Portfolio That Gets Interviews | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-portfolio-share-7491482626109657089-btaS/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
-| [097](./day097/) | HTB / TryHackMe: Advanced Machine Writeup | [advanced_writeup.md](./day097/advanced_writeup.md) | [🔗](./day097/linkedin_day097.md) |
+| [097](./day097/) | HTB / TryHackMe: Advanced Machine Writeup | - | [🔗](https://www.linkedin.com/posts/sudeep72_cybersecurity-100daysofcybersecurity-htb-activity-7491855936584790016-U4rd?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADozpFwB1yY0EWDoG7qYGdfjUy6tebiyLvo) |
 | [098](./day098/) | Contributing to Open Source Security Tools | - | [🔗](./day098/linkedin_day098.md) |
 | [099](./day099/) | Top 30 Cybersecurity Interview Q&A | [interview_prep.md](./day099/interview_prep.md) | [🔗](./day099/linkedin_day099.md) |
 | [100](./day100/) | Day 100: What I Learned & What's Next | - | [🔗](./day100/linkedin_day100.md) |
